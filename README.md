@@ -43,4 +43,6 @@ O instrumento também avalia o entendimento dos alunos em aplicar os princípios
 | 19         | Qual é o benefício de usar interfaces em orientação a objetos?                                  | Facilitar a implementação de métodos padrão         | Definir um contrato para classes seguirem                | Evitar herança entre classes                              | Garantir que todos os métodos sejam privados            | B                     |
 | 20         | O que acontece quando uma classe herda outra classe?                                            | Ela adquire todos os atributos e métodos da classe pai | Ela substitui a classe pai                               | Ela oculta todos os métodos da classe pai                 | Ela exclui os atributos da classe pai                    | A                     |
 
+### Protótipo exemplo da aplicação da ferramenta ###
 
+![Legenda](https://github.com/DEVinHouse-Docentes/atividade-avaliativa-2-av-diagn-stica-grupo6/blob/main/Captura%20de%20Tela.png)
