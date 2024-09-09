@@ -17,7 +17,7 @@ A avaliação irá medir a compreensão dos alunos sobre os **princípios da ori
 **Capacidade 2: Desenvolvimento de Sistemas**  
 O instrumento também avalia o entendimento dos alunos em aplicar os princípios de orientação a objetos no contexto do **desenvolvimento de sistemas**, com foco em **Padrões de Projetos (Design Patterns)**. Serão levantadas as capacidades de identificar e utilizar padrões como Singleton, Factory, Strategy e Observer, essenciais para a construção de **arquiteturas de software flexíveis** e escaláveis. A avaliação também medirá a competência em **análise de requisitos orientada a objetos** e a aplicação de conceitos de design para integrar sistemas de forma eficaz.
 
-###Instrumento avaliativo na íntegra###
+### Instrumento avaliativo na íntegra ###
 
 
 | **Número** | **Pergunta**                                                                                 | **A**                                                | **B**                                                     | **C**                                                     | **D**                                                | **Resposta Correta** |
