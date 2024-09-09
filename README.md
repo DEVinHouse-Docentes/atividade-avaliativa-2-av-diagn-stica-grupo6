@@ -9,3 +9,10 @@ O ambiente de implementação será a plataforma de aprendizado gamificado **Kah
 
 O **Kahoot** foi escolhido por ser uma ferramenta interativa e gamificada que promove o engajamento dos alunos e facilita a avaliação prévia de **Orientação a Objetos** de forma dinâmica. Ele oferece quizzes personalizados, com feedback instantâneo, ajudando a identificar rapidamente o conhecimento da turma sobre os conceitos necessários para o progresso em **Padrões de Projetos (Design Patterns)**. Além disso, sua acessibilidade em diversos dispositivos torna a implementação simples em ambientes presenciais ou remotos.
 
+### Lista das Capacidades Levantadas com o Instrumento Avaliativo
+
+**Capacidade 1: Programação de Sistemas Computacionais** 
+A avaliação irá medir a compreensão dos alunos sobre os **princípios da orientação a objetos**, como encapsulamento, herança, polimorfismo e abstração, aplicados em linguagens de programação como **Java**. Também será verificada a habilidade dos alunos em utilizar **Ambientes de Desenvolvimento Integrado (IDEs)** para a implementação de classes, objetos e métodos, além de sua capacidade de criar e manipular estruturas de dados e algoritmos baseados em OOP (Programação Orientada a Objetos).
+
+**Capacidade 2: Desenvolvimento de Sistemas**  
+O instrumento também avalia o entendimento dos alunos em aplicar os princípios de orientação a objetos no contexto do **desenvolvimento de sistemas**, com foco em **Padrões de Projetos (Design Patterns)**. Serão levantadas as capacidades de identificar e utilizar padrões como Singleton, Factory, Strategy e Observer, essenciais para a construção de **arquiteturas de software flexíveis** e escaláveis. A avaliação também medirá a competência em **análise de requisitos orientada a objetos** e a aplicação de conceitos de design para integrar sistemas de forma eficaz.
