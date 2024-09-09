@@ -5,3 +5,7 @@ A presente avaliação diagnóstica será aplicada na **Unidade Curricular: Dese
 
 O ambiente de implementação será a plataforma de aprendizado gamificado **Kahoot**, que permitirá uma abordagem interativa e dinâmica para diagnosticar o nível de conhecimento da turma, garantindo uma avaliação eficiente e engajadora.
 
+### Justificativa da Escolha da Ferramenta
+
+O **Kahoot** foi escolhido por ser uma ferramenta interativa e gamificada que promove o engajamento dos alunos e facilita a avaliação prévia de **Orientação a Objetos** de forma dinâmica. Ele oferece quizzes personalizados, com feedback instantâneo, ajudando a identificar rapidamente o conhecimento da turma sobre os conceitos necessários para o progresso em **Padrões de Projetos (Design Patterns)**. Além disso, sua acessibilidade em diversos dispositivos torna a implementação simples em ambientes presenciais ou remotos.
+
