@@ -46,3 +46,6 @@ O instrumento também avalia o entendimento dos alunos em aplicar os princípios
 ### Protótipo exemplo da aplicação da ferramenta ###
 
 ![Legenda](https://github.com/DEVinHouse-Docentes/atividade-avaliativa-2-av-diagn-stica-grupo6/blob/main/Captura%20de%20Tela.png)
+
+
+**Link para testar (Válido para testar até 06/10/2024)** [Clique aqui](https://kahoot.it/challenge/02676683?challenge-id=91b97fc2-b91f-4d87-8f8d-5ce121b6622e_1725885520485)
